@@ -48,4 +48,4 @@ Esta investigación estará guiada por un diseño cuasi experimental aplicado a 
   
 
 - [Fabián Enrique Suárez Carvajal](https://www.linkedin.com/in/inge-fabiansuarez)
-- [Camilo Andres Sierra Gordillo].(https://www.linkedin.com/in/camilo-sierra-b23b51259/)
+- [Camilo Andres Sierra Gordillo](https://www.linkedin.com/in/camilo-sierra-b23b51259/) - Contribuidor
